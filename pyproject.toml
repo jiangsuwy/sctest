@@ -6,7 +6,7 @@ license = { file = "LICENSE" }
 dependencies = ["opencv-python", "imageio-ffmpeg"]
 
 [project.urls]
-Repository = "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+Repository = "https://github.com/jiangsuwy/sctest"
 
 #  Used by Comfy Registry https://comfyregistry.org
 [tool.comfy]
